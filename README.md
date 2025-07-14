@@ -21,6 +21,11 @@ A simple and elegant **ToDoList Android App** built using **Kotlin** and **Andro
 
 ---
 
+## 🔗 Download APK
+
+[⬇️ Download app-release.apk]()
+
+
 ## 🛠️ Built With
 
 - **Kotlin**
