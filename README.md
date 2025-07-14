@@ -23,7 +23,7 @@ A simple and elegant **ToDoList Android App** built using **Kotlin** and **Andro
 
 ## 🔗 Download APK
 
-[⬇️ Download app-release.apk]()
+[⬇️ Download app-release.apk](https://github.com/Priya-lamba/ToDoList-App/releases/download/v1.0/app-debug.apk)
 
 
 ## 🛠️ Built With
